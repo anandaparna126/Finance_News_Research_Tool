@@ -1,0 +1,16 @@
+unstructured
+tiktoken
+faiss-cpu
+libmagic
+python-magic
+python-magic-bin
+OpenAI
+streamlit
+google-generativeai
+python-dotenv
+langchain
+PyPDF2
+chromadb
+pathlib
+textwrap
+langchain_google_genai

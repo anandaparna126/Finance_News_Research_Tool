@@ -1,0 +1,24 @@
+Rivos made headlines in 2022 after Apple filed a trade secrets suit against it, which accused Rivos of hiring away dozens of Apple engineers and using confidential info to develop chips to rival the iPhone maker's own.
+
+The company denied the allegations and countersued Apple for unfair competition. Apple ended up settling its lawsuit in February. Around the same time, it ended separate litigation with several of the Apple engineers Rivos had hired.
+
+Now, with the courtroom drama behind it, Rivos is redoubling its efforts to bring its chipset tech to market, CEO Puneet Kumar told TechCrunch.
+
+"Rivos was founded with the mission of building industry-leading, power-efficient, high-performance chips," Kumar said. "We're excited to be targeting customers who are building data-driven solutions."
+
+A substantial new funding tranche will help to finance those efforts.
+
+On Tuesday, Rivos announced that it raised over $250 million in an oversubscribed, extended Series A led by Matrix Capital Management with participation from chip giants, including Intel (via its corporate VC division) and MediaTek. Other backers included Cambium Capital, Hotung Venture Group, Walden Catalyst, Dell Technologies Capital and Koch Disruptive Technologies.
+
+It's quite the turnaround for Rivos, which was founded in 2021 and roughly a year ago was struggling to raise funds from investors and recruit employees under the shadow of the Apple suit. In August, Rivos laid off nearly two dozen employees, or 6% of its workforce at the time, and was forced to delay a planned $400 billion Series A fundraising round, The Information reported at the time.
+
+A custom server chip
+The long-term goal with Rivos, Kumar said, is to build chips primarily for servers that can handle intensive data analytics and AI workloads, including generative AI workloads.
+
+"We're targeting customers building data-driven solutions (e.g., those utilizing generative AI and data analytics to drive decisions)," Kumar said. "There're many companies targeting such markets; Rivos supports the intense hardware requirements of the AI models and analytics that will remake the enterprise."
+
+Rivos' first chipset is built on RISC-V, the open standard instruction set architecture (ISA).
+
+ISAs are a technical spec at the foundation of every chip, describing how software controls the chip's hardware. For general-purpose computing, chip design teams typically license an existing ISA from an incumbent (e.g., Arm or Intel). But RISC-V presents an open, no-royalties-attached alternative.
+
+
